@@ -7,6 +7,7 @@ margin: 10px;
 
 * {
   box-sizing: border-box;
+  padding: 10px;
 
   
  
@@ -88,7 +89,7 @@ div  {
     border: 2px solid #72ca31;
     padding: 30px 10px 10px 10px;
     margin: 10px;
-    height: 85px;
+    height: 30%;
     max-width: 280px;
     
     
@@ -138,7 +139,7 @@ div  {
     border: 2px solid #72ca31;
     padding: 30px 10px 10px 10px;
     margin: 10px;
-    height:72px;
+    height:30%;
   
 
   }
